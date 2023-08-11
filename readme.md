@@ -1,4 +1,6 @@
-## Contract Puzzles
+## Solidity Puzzles
+This is a set of 5 challenges from the Ethereum Bootcamp by Alchemy.
+This repository contains my personal solutions to the 5 challenges.
 
 The goal of the Smart Contract puzzles is to work on reading smart contracts and writing good tests to modify those smart contracts.
 
